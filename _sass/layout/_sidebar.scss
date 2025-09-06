@@ -134,6 +134,7 @@
 
 .sidebar .author__desktop {
   display: none;
+  white-space: normal;  // 自动换行
   @media screen and (min-width: 1024px) {
     display: block;
   }

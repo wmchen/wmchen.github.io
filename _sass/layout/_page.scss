@@ -399,3 +399,26 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.c_badge_accept {
+  display: inline-block;
+  padding: 0.1em 0.5em;
+  background-color: red;
+  color: white;
+  font-size: 0.6em;
+  font-weight: bold;
+  font-family: Times New Roman;
+  border-radius: 0.2em;
+}
+
+.badge_accept {
+  color:red; 
+  font-size:0.8em; 
+  font-style: italic;
+}
+
+.badge_review {
+  color:blue; 
+  font-size:0.8em; 
+  font-style: italic;
+}
