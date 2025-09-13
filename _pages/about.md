@@ -16,7 +16,7 @@ My research interests include machine learning, computer vision, object detectio
 Thanks for the nice open-source [academic homepage template](https://github.com/academicpages/academicpages.github.io).
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/wmchen-cv-en.pdf" class="btn btn--info">Download CV</a>
+  <a href="{{ base_path }}/files/wmchen-cv-en.pdf" class="btn btn--info">Download CV</a>&nbsp;&nbsp;
   <a href="{{ base_path }}/files/wmchen-cv-zh.pdf" class="btn btn--info">下载中文简历</a>
 </div>
 
