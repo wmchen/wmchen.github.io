@@ -11,9 +11,9 @@ author_profile: true
 
 ## Conference Paper
 
-- <span class="badge_review">Under Review</span> **Weiming Chen**, Zhihan Zhu, Yijia Wang, Zhihai He\\(^\dagger\\). Runge-Kutta Approximation and Decoupled Attention for Rectified Flow Inversion and Semantic Editing. NeurIPS, 2025.
-- <span class="badge_review">Under Review</span> **Weiming Chen**\\(^\star\\), Siqi Wu\\(^\star\\), Yinda Chen, Dong Liu, K. C. Ho, Zhihai He\\(^\dagger\\). Joint Semantic and Coded Generation for Conditional Latent Coding. AAAI, 2026.
-- <span class="badge_review">Under Review</span> **Weiming Chen**\\(^\star\\), Yijia Wang\\(^\star\\), Zhihan Zhu, Zhihai He\\(^\dagger\\). Generative Semantic Coding for Ultra-Low Bitrate Visual Communication and Analysis. AAAI, 2026.
+- <span class="badge_review">Under Review</span> **Weiming Chen**, Zhihan Zhu, Yijia Wang, Zhihai He\\(^\dagger\\). Runge-Kutta Approximation and Decoupled Attention for Rectified Flow Inversion and Semantic Editing.
+- <span class="badge_review">Under Review</span> **Weiming Chen**\\(^\star\\), Siqi Wu\\(^\star\\), Yinda Chen, Dong Liu, K. C. Ho, Zhihai He\\(^\dagger\\). Joint Semantic and Coded Generation for Conditional Latent Coding.
+- <span class="badge_review">Under Review</span> **Weiming Chen**\\(^\star\\), Yijia Wang\\(^\star\\), Zhihan Zhu, Zhihai He\\(^\dagger\\). Generative Semantic Coding for Ultra-Low Bitrate Visual Communication and Analysis.
 - <span class="badge_accept">Accept</span> Siyi Liu\\(^\star\\), **Weiming Chen**\\(^\star\\), Yushun Tang, Zhihai He\\(^\dagger\\). [LatentEdit: Adaptive Latent Control for Consistent Semantic Editing](https://arxiv.org/abs/2509.00541). PRCV, 2025. (CCF-C)
 - <span class="badge_accept">Accept</span> **Weiming Chen**, Bing Han\\(^\dagger\\), Xinbo Gao. [Oriented Ship Detection Based on Expansion Deformation Rotation Representation](https://ieeexplore.ieee.org/document/10229603/). Proceedings - 2023 3rd International Conference on Frontiers of Electronics, Information and Computation Technologies, ICFEICT 2023: 621-627. (EI: 20233914800823)
 - <span class="badge_accept">Accept</span> Zheng Yang, Bing Han\\(^\dagger\\), **Weiming Chen**, Xinbo Gao. [Learn to Encode Heterogeneous Data: A Heterogeneous Aware Network for Multi-Future Trajectory Prediction](https://ieeexplore.ieee.org/document/10191508). IJCNN, 2023. (CCF-C, EI: 20233614678559)
