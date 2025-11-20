@@ -83,11 +83,9 @@
           max-width: 70%;
           order: 2;
       }
-
   }
-
-
 }
+
 
 .badge {
   user-select: none;
@@ -100,6 +98,7 @@
   background-color: #00369f;
   font-size: .8em;
 }
+
 
 .project-box {
   display: flex;
@@ -179,7 +178,6 @@
     font-size: 0.7em;
     margin-left: -2em;
   }
-  
 
   @include breakpoint($medium) {
       .project-box-image{
@@ -195,4 +193,116 @@
           order: 2;
       }
   }
+}
+
+
+/* 照片容器外层 */
+.badminton-gallery {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+}
+
+/* 信息栏样式 */
+.gallery-info {
+    padding: 0.5rem 1.0rem;
+    background-color: #384f66;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.8rem;
+    letter-spacing: 0.5px;
+}
+
+.match-score {
+    // font-weight: 400;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.match-score::before {
+    content: "🏆";
+    font-size: 1.1rem;
+}
+
+.match-location {
+    opacity: 0.9;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.match-location::before {
+    content: "📍";
+    font-size: 1.1rem;
+}
+
+/* 滚动容器样式 */
+.gallery-scroll {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth; /* 丝滑滚动 */
+    scrollbar-width: thin; /* 细滚动条 */
+    scrollbar-color: #2c3e50 #f1f1f1; /* 滚动条颜色 */
+    height: 300px; /* 统一照片高度 */
+}
+
+/* 自定义滚动条（Chrome/Safari） */
+.gallery-scroll::-webkit-scrollbar {
+    height: 6px;
+}
+
+.gallery-scroll::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.gallery-scroll::-webkit-scrollbar-thumb {
+    background-color: #2c3e50;
+    border-radius: 3px;
+    transition: background-color 0.3s ease;
+}
+
+.gallery-scroll::-webkit-scrollbar-thumb:hover {
+    background-color: #1a252f;
+}
+
+/* 照片容器样式 */
+.gallery-item {
+    flex: 0 0 auto; /* 禁止收缩和拉伸 */
+    height: 100%; /* 继承父容器高度 */
+    margin-right: 1px; /* 照片间细微分隔线 */
+}
+
+.gallery-img {
+    height: 100%; /* 填充整个容器高度 */
+    width: auto; /* 宽度自动适应，保持比例 */
+    object-fit: contain; /* 等比缩放，不裁剪 */
+    display: block;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .gallery-scroll {
+        height: 300px;
+    }
+    .gallery-info {
+        font-size: 0.85rem;
+        padding: 0.6rem 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .gallery-scroll {
+        height: 220px;
+    }
+    .gallery-info {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.3rem;
+    }
 }
