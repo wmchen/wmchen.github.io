@@ -11,6 +11,57 @@ author_profile: true
 
 ## 2025
 
+### 深圳市第三届“数字能源先锋杯”羽毛球邀请赛
+
+<div class="badminton-gallery">
+<!-- 比赛信息栏 -->
+<div class="gallery-info">
+    <div class="match-score">Mixed Team, The 2nd Place</div>
+    <div class="match-location">Shenzhen, China</div>
+</div>
+
+<!-- 照片滚动容器 -->
+<div class="gallery-scroll">
+    <div class="gallery-item">
+        <img src="/images/sports/2025_sznyxfb_1.jpg" class="gallery-img">
+    </div>
+    <div class="gallery-item">
+        <img src="/images/sports/2025_sznyxfb_2.jpg" class="gallery-img">
+    </div>
+    <div class="gallery-item">
+        <img src="/images/sports/2025_sznyxfb_3.jpg" class="gallery-img">
+    </div>
+</div>
+</div>
+
+
+### 2025年深圳市大学生羽毛球比赛
+
+<div class="badminton-gallery">
+<!-- 比赛信息栏 -->
+<div class="gallery-info">
+    <div class="match-score">Men's Team, Champion; Men's Doubles, The 2nd Place</div>
+    <div class="match-location">Shenzhen, China</div>
+</div>
+
+<!-- 照片滚动容器 -->
+<div class="gallery-scroll">
+    <div class="gallery-item">
+        <img src="/images/sports/2025_szubc_1.jpg" class="gallery-img">
+    </div>
+    <div class="gallery-item">
+        <img src="/images/sports/2025_szubc_2.jpg" class="gallery-img">
+    </div>
+    <div class="gallery-item">
+        <img src="/images/sports/2025_szubc_3.jpg" class="gallery-img">
+    </div>
+    <div class="gallery-item">
+        <img src="/images/sports/2025_szubc_4.jpg" class="gallery-img">
+    </div>
+</div>
+</div>
+
+
 ### 深圳西丽湖国际科教城X9高校院所联盟第三届羽毛球&围棋联赛
 
 <div class="badminton-gallery">

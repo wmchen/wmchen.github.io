@@ -11,10 +11,6 @@ author_profile: true
 
 ## Conference Paper
 
-- <span class="badge_review">Under Review</span> **Weiming Chen**, Zhihan Zhu, Yijia Wang, Zhihai He\\(^\dagger\\). Runge-Kutta Approximation and Decoupled Attention for Rectified Flow Inversion and Semantic Editing. ICLR, 2026.
-- <span class="badge_review">Under Review</span> **Weiming Chen**\\(^\star\\), Yijia Wang\\(^\star\\), Zhihan Zhu, Zhihai He\\(^\dagger\\). Generative Semantic Coding for Ultra-Low Bitrate Visual Communication and Analysis. IEEE Transactions on Image Processing, 2025.
-- <span class="badge_review">Under Review</span> **Weiming Chen**\\(^\star\\), Siqi Wu\\(^\star\\), Yinda Chen, Dong Liu, K. C. Ho, Zhihai He\\(^\dagger\\). Joint Semantic and Coded Generation for Conditional Latent Coding. IEEE Transactions on Circuits and Systems for Video Technology, 2025.
-- <span class="badge_review">Under Review</span> Siqi Wu, Yinda Chen, **Weiming Chen**, Dong Liu, K. C. Ho, Zhihai He\\(^\dagger\\). Learned Image Coding with Generative Reference of Conditional Latents. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.
 - <span class="badge_accept">Accept</span> Siyi Liu\\(^\star\\), **Weiming Chen**\\(^\star\\), Yushun Tang, Zhihai He\\(^\dagger\\). [LatentEdit: Adaptive Latent Control for Consistent Semantic Editing](https://arxiv.org/abs/2509.00541). PRCV, 2025. (CCF-C)
 - <span class="badge_accept">Accept</span> **Weiming Chen**, Bing Han\\(^\dagger\\), Xinbo Gao. [Oriented Ship Detection Based on Expansion Deformation Rotation Representation](https://ieeexplore.ieee.org/document/10229603/). Proceedings - 2023 3rd International Conference on Frontiers of Electronics, Information and Computation Technologies, ICFEICT 2023: 621-627. (EI: 20233914800823)
 - <span class="badge_accept">Accept</span> Zheng Yang, Bing Han\\(^\dagger\\), **Weiming Chen**, Xinbo Gao. [Learn to Encode Heterogeneous Data: A Heterogeneous Aware Network for Multi-Future Trajectory Prediction](https://ieeexplore.ieee.org/document/10191508). IJCNN, 2023. (CCF-C, EI: 20233614678559)
@@ -22,6 +18,11 @@ author_profile: true
 
 ## Journal Paper
 
+- <span class="badge_review">Under Review</span> **Weiming Chen**, Zhihan Zhu, Yijia Wang, Zhihai He\\(^\dagger\\). Consistent Semantic Editing via Runge-Kutta Rectified Flow Inversion and Decoupled Diffusion Transformer Attention. IEEE Transactions on Image Processing, 2025.
+- <span class="badge_review">Under Review</span> **Weiming Chen**\\(^\star\\), Yijia Wang\\(^\star\\), Zhihan Zhu, Zhihai He\\(^\dagger\\). Generative Semantic Coding for Ultra-Low Bitrate Visual Communication and Analysis. IEEE Transactions on Image Processing, 2025.
+- <span class="badge_review">Under Review</span> **Weiming Chen**\\(^\star\\), Siqi Wu\\(^\star\\), Yinda Chen, Dong Liu, K. C. Ho, Zhihai He\\(^\dagger\\). Joint Semantic and Coded Generation for Conditional Latent Coding. IEEE Transactions on Circuits and Systems for Video Technology, 2025.
+- <span class="badge_review">Under Review</span> Siqi Wu, Yinda Chen, **Weiming Chen**, Dong Liu, K. C. Ho, Zhihai He\\(^\dagger\\). Learned Image Coding with Generative Reference of Conditional Latents. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.
+- <span class="badge_accept">Accept</span> Yushun Tang, **Weiming Chen**, Siyi Liu, Yi Zhang, Feng Wu, Zhihai He. In-Loop Model Adaptation with Coupled Latent-Noise Guidance for High-Fidelity Subject-Driven Text-to-Image Generation. IEEE Transactions on Multimedia, 2026.
 - <span class="badge_accept">Accept</span> 周洋, 韩冰\\(^\dagger\\), 高新波, 杨铮, **陈玮铭**. 基于注意力机制和循环域三元损失的域适应目标检测[J]. 自动化学报, 2024, 50(11): 2188-2203.
 - <span class="badge_accept">Accept</span> 韩冰\\(^\dagger\\), 高路, 高新波, **陈玮铭**. 边界加权的甲状腺癌病理图像细胞核分割方法. 西安电子科技大学学报, 2023, 50(5): 75-86.
 - <span class="badge_accept">Accept</span> **Weiming Chen**, Bing Han\\(^\dagger\\), Zheng Yang, Xinbo Gao. [MSSDet: Multi-Scale Ship-Detection Framework in Optical Remote-Sensing Images and New Benchmark](https://www.mdpi.com/2072-4292/14/21/5460). Remote Sensing, 2022, 14(21): 5460. (SCI-Q2, SCI: 000883986600001, EI: 20224613127109)
