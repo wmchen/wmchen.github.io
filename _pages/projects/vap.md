@@ -14,7 +14,7 @@ VAP is a general visual information annotation platform, which offers three leve
 - Programmer: **Weiming Chen**
 - Language & Library: **Python**, **PySide6**
 - Supported Language: **Simplified Chinese**
-- Latest version: **0.4.0**
+- Latest version: **0.4.0** ([see all versions](/files/vap_versions.html))
 
 <div style="text-align: center;">
     <a href="https://pan.baidu.com/s/1RqmtakFpUomneLEHv1_QoA?pwd=5ods" class="btn btn--info" style="padding:0.8em 1.2em; font-size:1em; border-radius:0.4em">Download VAP</a>
