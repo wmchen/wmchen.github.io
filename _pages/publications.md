@@ -18,6 +18,7 @@ author_profile: true
 
 ## Journal Paper
 
+- <span class="badge_review">Under Review</span> **Weiming Chen**, Qifan Liu, Siyi Liu, Yijia Wang, Zhihan Zhu, Zhihai He\\(^\dagger\\). Latent Bias Alignment for High-Fidelity Diffusion Inversion in Real-World Image Reconstruction and Manipulation. IEEE Transactions on Circuits and Systems for Video Technology, 2026.
 - <span class="badge_review">Under Review</span> **Weiming Chen**, Zhihan Zhu, Yijia Wang, Zhihai He\\(^\dagger\\). Consistent Semantic Editing via Runge-Kutta Rectified Flow Inversion and Decoupled Diffusion Transformer Attention. IEEE Transactions on Image Processing, 2025.
 - <span class="badge_review">Under Review</span> **Weiming Chen**\\(^\star\\), Yijia Wang\\(^\star\\), Zhihan Zhu, Zhihai He\\(^\dagger\\). Generative Semantic Coding for Ultra-Low Bitrate Visual Communication and Analysis. IEEE Transactions on Image Processing, 2025.
 - <span class="badge_review">Under Review</span> **Weiming Chen**\\(^\star\\), Siqi Wu\\(^\star\\), Yinda Chen, Dong Liu, K. C. Ho, Zhihai He\\(^\dagger\\). Joint Semantic and Coded Generation for Conditional Latent Coding. IEEE Transactions on Circuits and Systems for Video Technology, 2025.
