@@ -11,7 +11,7 @@ author_profile: true
 
 ## Conference Paper
 
-- <span class="badge_accept">Accept</span> Siyi Liu\\(^\star\\), **Weiming Chen**\\(^\star\\), Yushun Tang, Zhihai He\\(^\dagger\\). [LatentEdit: Adaptive Latent Control for Consistent Semantic Editing](https://arxiv.org/abs/2509.00541). PRCV, 2025. (CCF-C)
+- <span class="badge_accept">Accept</span> Siyi Liu\\(^\star\\), **Weiming Chen**\\(^\star\\), Yushun Tang, Zhihai He\\(^\dagger\\). [LatentEdit: Adaptive Latent Control for Consistent Semantic Editing](https://link.springer.com/chapter/10.1007/978-981-95-5679-3_7). Pattern Recognition and Computer Vision (PRCV), 2025. (CCF-C)
 - <span class="badge_accept">Accept</span> **Weiming Chen**, Bing Han\\(^\dagger\\), Xinbo Gao. [Oriented Ship Detection Based on Expansion Deformation Rotation Representation](https://ieeexplore.ieee.org/document/10229603/). Proceedings - 2023 3rd International Conference on Frontiers of Electronics, Information and Computation Technologies, ICFEICT 2023: 621-627. (EI: 20233914800823)
 - <span class="badge_accept">Accept</span> Zheng Yang, Bing Han\\(^\dagger\\), **Weiming Chen**, Xinbo Gao. [Learn to Encode Heterogeneous Data: A Heterogeneous Aware Network for Multi-Future Trajectory Prediction](https://ieeexplore.ieee.org/document/10191508). IJCNN, 2023. (CCF-C, EI: 20233614678559)
 
