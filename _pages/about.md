@@ -22,21 +22,61 @@ Thanks for the nice open-source [academic homepage template](https://github.com/
 
 
 ## 🔥 News
-- *2025.09:* 🎉 A paper is accepted by PRCV 2025
+- *2026.06:* 🎉 A paper is accepted by IEEE TCSVT (SCI-Q1, CCF-B)
+- *2026.05:* 🎉 A paper is accepted by IEEE TMM (SCI-Q1, CCF-A)
+- *2025.09:* 🎉 A paper is accepted by PRCV 2025 (CCF-C)
 - *2024.08:* 🎉 An open source Python module ([mlcbase](https://github.com/mulingcloud/mlcbase)) is released
 - *2023.05:* 🎉 A paper is accepted by ICFEICT 2023
 - *2022.12:* 👋 My academic homepage is open
 
 
 ## 📖 Educations
-- *2023.09 - present*, Ph.D. in Intelligent Manufacturing and Robotics, Southern University of Science and Technology. Supervised by Prof. [Zhihai He](https://nkdailab.github.io/author/%E4%BD%95%E5%BF%97%E6%B5%B7/), IEEE Fellow.
+- *2023.09 - present*, Ph.D. in Intelligent Manufacturing and Robotics, Southern University of Science and Technology. Supervised by Prof. [Zhihai He](https://nkdailab.github.io/author/%E4%BD%95%E5%BF%97%E6%B5%B7/), *IEEE Fellow*.
 - *2020.09 - 2023.06*, M.Sc. in Electronic science and technology, Xidian University, Xi'an, China. Supervised by Prof. [Bing Han](https://web.xidian.edu.cn/bhan/).
-- *2015.08 - 2019.06*, B.Eng. in Mechanical Design, Manufacturing, and Automation, Xidian University, Xi'an, China.
+- *2015.08 - 2019.06*, B.Eng. in Mechanical Design, Manufacturing, and Automation, Xidian University, Xi'an, China. Supervised by Prof. [Xinbo Gao](https://web.xidian.edu.cn/xbgao/), *IEEE, IET, CIE, CCF, CAAI Fellow*.
 
 
 ## 📝 Publications
 
 View all my [publications](/publications/).
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE TCSVT 2026</div>
+      <img src='images/JSCCL.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Joint Semantic and Coded Generation for Conditional Latent Coding](/publications/)
+
+**Weiming Chen**\\(^\star\\), Siqi Wu\\(^\star\\), Yinda Chen, Dong Liu, K. C. Ho, Zhihai He
+
+  </div>
+</div>
+
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE TMM 2026</div>
+      <img src='images/IMA.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[In-Loop Model Adaptation with Coupled Latent-Noise Guidance for High-Fidelity Subject-Driven Text-to-Image Generation](/publications/)
+
+Yushun Tang, **Weiming Chen**, Siyi Liu, Yi Zhang, Feng Wu, Zhihai He
+
+  </div>
+</div>
+
+
 
 
 <div class='paper-box'>
@@ -50,10 +90,12 @@ View all my [publications](/publications/).
 
 [LatentEdit: Adaptive Latent Control for Consistent Semantic Editing](https://arxiv.org/abs/2509.00541)
 
-Siyi Liu\\(^\star\\), **Weiming Chen**\\(^\star\\),Yushun Tang, Zhihai He
+Siyi Liu\\(^\star\\), **Weiming Chen**\\(^\star\\), Yushun Tang, Zhihai He
 
   </div>
 </div>
+
+
 
 
 <div class='paper-box'>
@@ -71,6 +113,8 @@ Siyi Liu\\(^\star\\), **Weiming Chen**\\(^\star\\),Yushun Tang, Zhihai He
 
   </div>
 </div>
+
+
 
 
 <div class='paper-box'>
